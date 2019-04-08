@@ -6,6 +6,7 @@
               {"color":"BLUE","grade":90,"price":10,"image_url":"15374271510921537427151092.jpg","active":1,"id":238},
               {"color":"NEON ORANGE","grade":91,"price":10,"image_url":"15374442486461537444248646.jpg","active":1,"id":237},
               {"color":"LIME GREEN","grade":92,"price":10,"image_url":"15347618733111534761873311.jpg","active":1,"id":240}],
+  "cart":[],
   "profile": {
     "name": "typicode"
   }
