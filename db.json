@@ -7,6 +7,6 @@
               {"color":"NEON ORANGE","grade":91,"price":10,"image_url":"15374442486461537444248646.jpg","active":1,"id":237},
               {"color":"LIME GREEN","grade":92,"price":10,"image_url":"15347618733111534761873311.jpg","active":1,"id":240}],
   "cart":[],
-  "user":[{"id": 1,"username": "venmani","email": "ven.aptc@gmail.com",cartlist[]},
-         {"id": 2,"username": "selvan","email": "selva@gmail.com",cartlist[]}] 
+  "user":[{"id": 1,"username": "venmani","email": "ven.aptc@gmail.com","cartlist":[]},
+         {"id": 2,"username": "selvan","email": "selva@gmail.com","cartlist":[]}] 
 }
