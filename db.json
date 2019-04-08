@@ -1,5 +1,5 @@
 {
-  "comments":[{"color":"CLOVER GREEN","grade":86,"price":10,"image_url":"15348516965911534851696591.jpg","active":1,"id":241},
+  "product":[{"color":"CLOVER GREEN","grade":86,"price":10,"image_url":"15348516965911534851696591.jpg","active":1,"id":241},
               {"color":"CLOVER GREEN","grade":87,"price":10,"image_url":"15347618733001534761873300.jpg","active":1,"id":235},
               {"color":"NEON YELLOW","grade":88,"price":10,"image_url":"15374271508651537427150865.jpg","active":1,"id":239},
               {"color":"RED","grade":89,"price":10,"image_url":"15347618732891534761873289.jpg","active":1,"id":236},
@@ -7,7 +7,6 @@
               {"color":"NEON ORANGE","grade":91,"price":10,"image_url":"15374442486461537444248646.jpg","active":1,"id":237},
               {"color":"LIME GREEN","grade":92,"price":10,"image_url":"15347618733111534761873311.jpg","active":1,"id":240}],
   "cart":[],
-  "profile": {
-    "name": "typicode"
-  }
+  "user":[{"id": 1,"username": "venmani","email": "ven.aptc@gmail.com",cartlist[]},
+         {"id": 2,"username": "selvan","email": "selva@gmail.com",cartlist[]}] 
 }
